@@ -1,0 +1,8 @@
+project_dataset.csv
+model_lineaire.pkl
+modele_random_tree_huge.pkl
+modele_random_tree_low.pkl
+modele_XGB_Regressor.pkl
+venv/
+.ruff_cache/
+__pycache__/
